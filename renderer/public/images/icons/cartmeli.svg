@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.67" height="10.86" viewBox="0 0 12.67 10.86">
+    <defs>
+        <style>
+            .cls-1{fill:#919399}
+        </style>
+    </defs>
+    <g id="identification" transform="translate(-2.25 -4.5)">
+        <path id="Path_950" d="M14.015 5.405v9.05H3.155v-9.05h10.86m0-.905H3.155a.905.905 0 0 0-.905.905v9.05a.905.905 0 0 0 .905.905h10.86a.905.905 0 0 0 .905-.905v-9.05a.905.905 0 0 0-.905-.905z" class="cls-1"/>
+        <path id="Path_951" d="M6.75 11.25h3.168v.905H6.75z" class="cls-1" transform="translate(-2.69 -4.035)"/>
+        <path id="Path_952" d="M6.75 15.75h1.81v.905H6.75z" class="cls-1" transform="translate(-2.69 -6.725)"/>
+        <path id="Path_953" d="M19.823 20.25h-2.715a1.358 1.358 0 0 0-1.358 1.358v.905h.905v-.905a.453.453 0 0 1 .453-.453h2.715a.453.453 0 0 1 .453.453v.905h.905v-.905a1.358 1.358 0 0 0-1.358-1.358z" class="cls-1" transform="translate(-8.07 -9.415)"/>
+        <path id="Path_954" d="M19.81 13.745a1.81 1.81 0 1 0-1.81-1.81 1.81 1.81 0 0 0 1.81 1.81zm0-2.715a.905.905 0 1 1-.905.905.905.905 0 0 1 .905-.905z" class="cls-1" transform="translate(-9.415 -3.362)"/>
+    </g>
+</svg>

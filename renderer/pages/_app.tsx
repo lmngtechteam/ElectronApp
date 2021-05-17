@@ -1,14 +1,14 @@
-import GlobalStyle from '../app/styles/globalStyle';
+import GlobalStyle from 'app/styles/globalStyle';
 import { ThemeProvider } from 'styled-components';
 import { useTheme } from 'app/theme/useTheme';
 import { wrapper } from '../store/store';
 import { useEffect } from "react";
-import Layout from '../app/layout';
-import Meta from '../app/components/meta';
+import Layout from 'app/layout';
+import Meta from 'app/components/meta';
 
 import 'bootstrap-v4-rtl/dist/css/bootstrap-rtl.css';
 import 'font-awesome/css/font-awesome.min.css';
-// import '../app/assets/css/index.scss';
+import 'app/assets/css/index.scss';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -42,4 +42,4 @@ const WrappedApp = ({ Component, pageProps }) => {
   );
 }
 
-export default wrapper.withRedux(WrappedApp);
+export default wrapper.withRedux(WrappedApp)
